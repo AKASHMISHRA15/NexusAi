@@ -1,0 +1,11 @@
+{
+    "permissions": {
+        "file_create": true,
+        "file_open": true,
+        "app_launch": true,
+        "app_close": true,
+        "system_settings": true,
+        "browser_control": true,
+        "notification_read": true
+    }
+}
